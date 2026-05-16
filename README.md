@@ -38,7 +38,7 @@ multi-client-chat-app/
 └── screenshots/
     ├── server_running.png
     ├── chat_demo.png
-    └── multiple_clients.png
+    └── Multiple_clients.png
 ```
 
 ---
@@ -59,7 +59,7 @@ multi-client-chat-app/
 ![Server Running](screenshots/server_running.png)
 
 ### Multiple Clients Connected
-![Multiple Clients](screenshots/multiple_clients.png)
+![Multiple Clients](screenshots/Multiple_clients.png)
 
 ### Chat Demo
 ![Chat Demo](screenshots/chat_demo.png)
